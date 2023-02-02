@@ -12,3 +12,7 @@ we learn 10 sprints during 4 months program.
 - Intro to Python
 - Essential Python for Data Analyst
 - Dashboard
+
+
+## Dashboard
+[Airbnb Listing in New York City](https://lookerstudio.google.com/s/qYdJJ1pLocs) from `Lookerstudio`
